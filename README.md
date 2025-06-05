@@ -14,3 +14,5 @@ Welcome to my journey through the #30DaysOfPython challenge! Each day I’ll be 
 | 6   | Importing modules (math, random), creating custom modules | Generate a random 8-character password | [Day 6](https://github.com/yash-khobragade/30-Days-of-Python/tree/main/Day%2006) |
 | 7   | Reading/writing files, handling text and CSV | Count word frequencies in a text file | [Day 7](https://github.com/yash-khobragade/30-Days-of-Python/tree/main/Day%2007)
 | 8   | Classes, objects, methods, attributes | Create a Car class with attributes and a display method | [Day 8](https://github.com/yash-khobragade/30-Days-of-Python/tree/main/Day%2008) |
+| 9   | Inheritance, polymorphism | Extend Car into an ElectricCar subclass with battery capacity | [Day 9](https://github.com/yash-khobragade/30-Days-of-Python/tree/main/Day%2009)
+
