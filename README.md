@@ -18,3 +18,4 @@ Welcome to my journey through the #30DaysOfPython challenge! Each day I’ll be 
 | 10  | Try-except, specific exceptions, finally clause | Read numbers from a file and handle errors gracefully | [Day 10](https://github.com/yash-khobragade/30-Days-of-Python/tree/main/Day%2010) |
 | 11  | Datetime module, formatting, time differences | Calculate the days between two dates | [Day 11](https://github.com/yash-khobragade/30-Days-of-Python/tree/main/Day%2011) |
 | 12  | re module, pattern matching | Validate gmail addresses using regex | [Day 12](https://github.com/yash-khobragade/30-Days-of-Python/tree/main/Day%2012) |
+| 13  | Stacks, queues (implementation with lists) | Implement a stack with push, pop, and peek | [Day 13](https://github.com/yash-khobragade/30-Days-of-Python/tree/main/Day%2013)
