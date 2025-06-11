@@ -20,3 +20,4 @@ Welcome to my journey through the #30DaysOfPython challenge! Each day I’ll be 
 | 12  | re module, pattern matching | Validate gmail addresses using regex | [Day 12](https://github.com/yash-khobragade/30-Days-of-Python/tree/main/Day%2012) |
 | 13  | Stacks, queues (implementation with lists) | Implement a stack with push, pop, and peek | [Day 13](https://github.com/yash-khobragade/30-Days-of-Python/tree/main/Day%2013)
 | 14  | Recursive functions, base cases | Calculate factorial recursively | [Day 14](https://github.com/yash-khobragade/30-Days-of-Python/tree/main/Day%2014) |
+| 15  | Function decorators, use cases (e.g., timing) | Create a decorator to log function execution time | [Day 15](https://github.com/yash-khobragade/30-Days-of-Python/tree/main/Day%2015) |
