@@ -22,3 +22,4 @@ Welcome to my journey through the #30DaysOfPython challenge! Each day I’ll be 
 | 14  | Recursive functions, base cases | Calculate factorial recursively | [Day 14](https://github.com/yash-khobragade/30-Days-of-Python/tree/main/Day%2014) |
 | 15  | Function decorators, use cases (e.g., timing) | Create a decorator to log function execution time | [Day 15](https://github.com/yash-khobragade/30-Days-of-Python/tree/main/Day%2015) |
 | 16  | yield, iterators, lazy evaluation | Generate the first n Fibonacci numbers with a generator | [Day 16](https://github.com/yash-khobragade/30-Days-of-Python/tree/main/Day%2016) |
+| 17  | with statements, custom context managers | Build a context manager for safe file handling | [Day 17](https://github.com/yash-khobragade/30-Days-of-Python/tree/main/Day%2017) |
