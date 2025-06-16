@@ -25,3 +25,7 @@ Welcome to my journey through the #30DaysOfPython challenge! Each day I’ll be 
 | 17  | with statements, custom context managers | Build a context manager for safe file handling | [Day 17](https://github.com/yash-khobragade/30-Days-of-Python/tree/main/Day%2017) |
 | 18  | Metaclasses, Customising class creation |Enforce a naming convention with a metaclass | [Day 18](https://github.com/yash-khobragade/30-Days-of-Python/tree/main/Day%2018) |
 | 19  | threading, multiprocessing, concurrency | Download multiple files concurrently using threads | [Day 19](https://github.com/yash-khobragade/30-Days-of-Python/tree/main/Day%2019) |
+| 20  | Sockets & HTTP Requests | Fetch and display a webpage’s content | [Day 20](https://github.com/yash-khobragade/30-Days-of-Python/tree/main/Day%2020) |
+
+
+
