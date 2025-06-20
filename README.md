@@ -29,5 +29,6 @@ Welcome to my journey through the #30DaysOfPython challenge! Each day I’ll be 
 | 21  | requests, BeautifulSoup, Selenium | Scrape headlines from a news site | [Day 21](https://github.com/yash-khobragade/30-Days-of-Python/tree/main/Day%2021) |
 | 22  | argparse, CLI structure |   Build a temperature converter CLI tool | [Day 22](https://github.com/yash-khobragade/30-Days-of-Python/tree/main/Day%2022) |
 | 23  | Creating basic GUI elements, Event handling and widget interactions | Convert the temperature converter CLI tool into a GUI tool | [Day 23](https://github.com/yash-khobragade/30-Days-of-Python/tree/main/Day%2023) |
+| 24  | defining dataclasses, default values, type hints etc | Create a dataclass to represent a library book with fields for title, author, ISBN, and publication year, including a method to display book details | [Day 24](https://github.com/yash-khobragade/30-Days-of-Python/tree/main/Day%2024) |
 
 
