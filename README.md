@@ -33,5 +33,7 @@ Welcome to my journey through the #30DaysOfPython challenge! Each day I’ll be 
 | 25  | Defining models with pydantic , why it’s needed | Build a Pydantic model for a user profile with fields for name, email, and age, including validation for email format and age range (18–100) | [Day 25](https://github.com/yash-khobragade/30-Days-of-Python/tree/main/Day%2025) |
 | 26  | Understanding REST APIs, Creating RESTful endpoints (GET, POST, PUT, DELETE) | Develop a FastAPI application with endpoints to manage a library of books, including creating, reading, updating, and deleting books| [Day 26](https://github.com/yash-khobragade/30-Days-of-Python/tree/main/Day%2026) |
 | 27  | What’s an ORM, intro to SQLAlchemy, CRUD | Use SQLAlchemy in the book management APIs from the previous challenge and store the data in a SQLite database | [Day 27](https://github.com/yash-khobragade/30-Days-of-Python/upload/main/Day%2027) |
+| 28  | Write better Python | Review and refactor existing code (from Day 15 – Decorators) to follow clean code principles. | [Day 28](https://github.com/yash-khobragade/30-Days-of-Python/tree/main/Day%2028) |
+
 
 
