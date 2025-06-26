@@ -35,5 +35,5 @@ Welcome to my journey through the #30DaysOfPython challenge! Each day I’ll be 
 | 27  | What’s an ORM, intro to SQLAlchemy, CRUD | Use SQLAlchemy in the book management APIs from the previous challenge and store the data in a SQLite database | [Day 27](https://github.com/yash-khobragade/30-Days-of-Python/upload/main/Day%2027) |
 | 28  | Write better Python | Review and refactor existing code (from Day 15 – Decorators) to follow clean code principles. | [Day 28](https://github.com/yash-khobragade/30-Days-of-Python/tree/main/Day%2028) |
 | 29  | Choose your project | Mini Project: Real-Time Currency Converter| [Day 29](https://github.com/yash-khobragade/30-Days-of-Python/tree/main/Day%2029) |
-
+| 30  | Capstone Project | Electrical Vehicle Sales Analytics| [Day 30](https://github.com/yash-khobragade/30-Days-of-Python/tree/main/Day%2030) |
 
