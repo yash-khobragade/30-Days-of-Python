@@ -37,3 +37,10 @@ Welcome to my journey through the #30DaysOfPython challenge! Each day I’ll be 
 | 29  | Choose your project | Mini Project: Real-Time Currency Converter| [Day 29](https://github.com/yash-khobragade/30-Days-of-Python/tree/main/Day%2029) |
 | 30  | Capstone Project |Electric Car Sales Analytics — Interactive Dashboard| [Day 30](https://github.com/yash-khobragade/30-Days-of-Python/tree/main/Day%2030) |
 
+## 📜 Certificate of Appreciation
+
+![Certificate](https://github.com/yash-khobragade/30-Days-of-Python/blob/main/Certificate.png)
+
+*Successfully completed the #30DaysOfPython Challenge by Indian Data Club!*
+
+
